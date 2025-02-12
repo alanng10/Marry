@@ -34,6 +34,12 @@ Marry has most general and most level receive arch.
 
 Marry has most general and most level receive arch worth.
 
+Marry has most general and most level kind.
+
+Marry has most general and most level kind arch.
+
+Marry has most general and most level kind arch worth.
+
 Marry has most general and most level index.
 
 Marry has most general and most level index arch.
