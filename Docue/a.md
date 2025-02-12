@@ -27,3 +27,9 @@ Marry has most general and most level output.
 Marry has most general and most level output arch.
 
 Marry has most general and most level output arch worth.
+
+Marry has most general and most level receive.
+
+Marry has most general and most level receive arch.
+
+Marry has most general and most level receive arch worth.
