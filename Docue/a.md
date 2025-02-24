@@ -2,12 +2,6 @@
 
 Marry is park marry.
 
-Marry has park worth.
-
-Marry has park worth arch.
-
-Marry has park worth arch worth.
-
 Marry has park base.
 
 Marry has park base arch.
@@ -67,6 +61,12 @@ Marry has park base benefit value.
 Marry has park base benefit value arch.
 
 Marry has park base benefit value arch worth.
+
+Marry has park worth.
+
+Marry has park worth arch.
+
+Marry has park worth arch worth.
 
 Marry has park value.
 
