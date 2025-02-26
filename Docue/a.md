@@ -12,7 +12,7 @@ Marry has park base benefit.
 
 Marry has park base arch.
 
-Marry has park base arch worth. 
+Marry has park base arch worth.
 
 Marry has park worth.
 
