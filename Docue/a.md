@@ -71,3 +71,5 @@ Marry has park index benefit.
 Marry has park index arch.
 
 Marry has park index arch worth.
+
+Marry has major.
